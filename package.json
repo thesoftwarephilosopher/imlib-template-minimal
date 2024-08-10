@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "generate": "imlib generate"
+  },
   "dependencies": {
     "@imlib/core": "^2.3.3"
   },
