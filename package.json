@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@imlib/core": "^2.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.2.0"
+  }
+}
