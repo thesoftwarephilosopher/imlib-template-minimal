@@ -4,6 +4,8 @@
     "target": "ESNext",
     "module": "ESNext",
     "moduleResolution": "Node",
+    "rootDir": "site",
+    "noEmit": true,
     "types": [
       "node",
       "@imlib/core/runtime.d.ts"
